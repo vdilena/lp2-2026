@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 4"
-applyTo: "clase-04-*/**"
+description: "Contenidos habilitados para las actividades de la clase 5"
+applyTo: "clase-05-*/**"
 ---
 
-# Alcance de la clase 4
+# Alcance de la clase 5
 
 ## Contenidos habilitados
 
@@ -19,16 +19,16 @@ applyTo: "clase-04-*/**"
 - Operadores de pertenencia en lista
 - Diccionarios
 - Sets
-
-
-## Contenidos todavía no habilitados
-
 - Estructuras condicionales.
 - Estructuras de interacion con while
 - Estructuras de interacion con for
 
+
+## Contenidos todavía no habilitados
+
 - Control de excepciones
 - Funciones
+- List comprehension
 - Modulos
 - Manejo de archivos csv
 

@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 3"
-applyTo: "clase-03-*/**"
+description: "Contenidos habilitados para las actividades de la clase 6 y 7"
+applyTo: "{cursadaDistancia/clase-06-*/**,cursadaDistancia/clase-07-*/**}"
 ---
 
-# Alcance de la clase 3
+# Alcance de la clase 6 y 7
 
 ## Contenidos habilitados
 
@@ -17,25 +17,21 @@ applyTo: "clase-03-*/**"
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
-
-
-## Contenidos todavía no habilitados
-
 - Diccionarios
 - Sets
-
 - Estructuras condicionales.
 - Estructuras de interacion con while
 - Estructuras de interacion con for
-
-- Control de excepciones
 - Funciones
+- List comprehension
+- Control de excepciones
 - Modulos
 - Manejo de archivos csv
-
 - Porgramacion orientada a objetos
-
 - Numpy
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+
+## Contenidos todavía no habilitados

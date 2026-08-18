@@ -6,4 +6,4 @@ Obtener el promedio de calificaciones del final de los alumnos de un curso. Se d
 
 ## Archivo a modificar
 
-`solucion.py`
+`solucion.py`   

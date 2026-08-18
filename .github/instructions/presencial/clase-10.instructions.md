@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 6"
-applyTo: "clase-06-*/**"
+description: "Contenidos habilitados para las actividades de la clase 10"
+applyTo: "clase-10-*/**"
 ---
 
-# Alcance de la clase 6
+# Alcance de la clase 10
 
 ## Contenidos habilitados
 
@@ -24,14 +24,16 @@ applyTo: "clase-06-*/**"
 - Estructuras de interacion con for
 - Control de excepciones
 - Funciones
+- List comprehension
 - Modulos
 - Manejo de archivos csv
+- Porgramacion orientada a objetos
+- Porgramacion orientada a objetos
+- Numpy
 
 
 ## Contenidos todavía no habilitados
 
-- Porgramacion orientada a objetos
-- Numpy
 - Pandas
 - Matplotlib
 - Scikit-learn

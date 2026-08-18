@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 5"
-applyTo: "clase-05-*/**"
+description: "Contenidos habilitados para las actividades de la clase 4 y 5"
+applyTo: "{cursadaDistancia/clase-04-*/**,cursadaDistancia/clase-04-*/**}"
 ---
 
-# Alcance de la clase 5
+# Alcance de la clase 4 y 5
 
 ## Contenidos habilitados
 
@@ -22,16 +22,15 @@ applyTo: "clase-05-*/**"
 - Estructuras condicionales.
 - Estructuras de interacion con while
 - Estructuras de interacion con for
+- Funciones
+- List comprehension
+- Control de excepciones
+- Modulos
+- Manejo de archivos csv
+- Porgramacion orientada a objetos
 
 
 ## Contenidos todavía no habilitados
-
-- Control de excepciones
-- Funciones
-- Modulos
-- Manejo de archivos csv
-
-- Porgramacion orientada a objetos
 
 - Numpy
 - Pandas

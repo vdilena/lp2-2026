@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 11"
-applyTo: "clase-11-*/**"
+description: "Contenidos habilitados para las actividades de la clase 4"
+applyTo: "clase-04-*/**"
 ---
 
-# Alcance de la clase 11
+# Alcance de la clase 4
 
 ## Contenidos habilitados
 
@@ -19,20 +19,23 @@ applyTo: "clase-11-*/**"
 - Operadores de pertenencia en lista
 - Diccionarios
 - Sets
-- Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
-- Control de excepciones
-- Funciones
-- Modulos
-- Manejo de archivos csv
-- Porgramacion orientada a objetos
-- Porgramacion orientada a objetos
-- Numpy
-- Pandas
-- Matplotlib
 
 
 ## Contenidos todavía no habilitados
 
+- Estructuras condicionales.
+- Estructuras de interacion con while
+- Estructuras de interacion con for
+
+- Control de excepciones
+- Funciones
+- List comprehension
+- Modulos
+- Manejo de archivos csv
+
+- Porgramacion orientada a objetos
+
+- Numpy
+- Pandas
+- Matplotlib
 - Scikit-learn

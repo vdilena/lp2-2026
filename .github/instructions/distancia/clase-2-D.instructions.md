@@ -1,6 +1,6 @@
 ---
 description: "Contenidos habilitados para las actividades de la clase 2"
-applyTo: "clase-02-*/**"
+applyTo: "cursadaDistancia/clase-02-*/**"
 ---
 
 # Alcance de la clase 2
@@ -14,23 +14,22 @@ applyTo: "clase-02-*/**"
 - Operadores matematicos
 - Operadores de comparacion
 - Operadores logicos
-
-
-## Contenidos todavía no habilitados
-
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
-
 - Diccionarios
 - Sets
-
 - Estructuras condicionales.
 - Estructuras de interacion con while
 - Estructuras de interacion con for
 
-- Control de excepciones
+## Contenidos todavía no habilitados
+
+
+
 - Funciones
+- List comprehension
+- Control de excepciones
 - Modulos
 - Manejo de archivos csv
 

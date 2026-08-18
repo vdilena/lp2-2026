@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 12"
-applyTo: "clase-12-*/**"
+description: "Contenidos habilitados para las actividades de la clase 3"
+applyTo: "cursadaDistancia/clase-03-*/**"
 ---
 
-# Alcance de la clase 12
+# Alcance de la clase 3
 
 ## Contenidos habilitados
 
@@ -22,16 +22,19 @@ applyTo: "clase-12-*/**"
 - Estructuras condicionales.
 - Estructuras de interacion con while
 - Estructuras de interacion con for
-- Control de excepciones
 - Funciones
+- List comprehension
+
+
+## Contenidos todavía no habilitados
+
+- Control de excepciones
 - Modulos
 - Manejo de archivos csv
+
 - Porgramacion orientada a objetos
-- Porgramacion orientada a objetos
+
 - Numpy
 - Pandas
 - Matplotlib
 - Scikit-learn
-
-
-## Contenidos todavía no habilitados

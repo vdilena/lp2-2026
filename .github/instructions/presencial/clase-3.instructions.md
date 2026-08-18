@@ -1,9 +1,9 @@
 ---
-description: "Contenidos habilitados para las actividades de la clase 7, 8 y 9"
-applyTo: "{clase-07-*/**,clase-08-*/**,clase-09-*/**}"
+description: "Contenidos habilitados para las actividades de la clase 3"
+applyTo: "clase-03-*/**"
 ---
 
-# Alcance de la clase 7, 8 y 9
+# Alcance de la clase 3
 
 ## Contenidos habilitados
 
@@ -17,20 +17,24 @@ applyTo: "{clase-07-*/**,clase-08-*/**,clase-09-*/**}"
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
-- Diccionarios
-- Sets
-- Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
-- Control de excepciones
-- Funciones
-- Modulos
-- Manejo de archivos csv
-- Porgramacion orientada a objetos
-- Porgramacion orientada a objetos
 
 
 ## Contenidos todavía no habilitados
+
+- Diccionarios
+- Sets
+
+- Estructuras condicionales.
+- Estructuras de interacion con while
+- Estructuras de interacion con for
+
+- Control de excepciones
+- Funciones
+- List comprehension
+- Modulos
+- Manejo de archivos csv
+
+- Porgramacion orientada a objetos
 
 - Numpy
 - Pandas
