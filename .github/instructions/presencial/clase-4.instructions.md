@@ -14,18 +14,18 @@ applyTo: "clase-04-*/**"
 - Operadores matematicos
 - Operadores de comparacion
 - Operadores logicos
+- Estructuras condicionales.
+- Estructuras de interacion con while
+- Estructuras de interacion con for
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
-- Diccionarios
-- Sets
 
 
 ## Contenidos todavía no habilitados
 
-- Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Diccionarios
+- Sets
 
 - Control de excepciones
 - Funciones

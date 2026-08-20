@@ -14,19 +14,19 @@ applyTo: "clase-03-*/**"
 - Operadores matematicos
 - Operadores de comparacion
 - Operadores logicos
-- Listas
-- Tuplas
-- Operadores de pertenencia en lista
+- Estructuras condicionales.
+- Estructuras de interacion con while
+- Estructuras de interacion con for
 
 
 ## Contenidos todavía no habilitados
 
+- Listas
+- Tuplas
+- Operadores de pertenencia en lista
+
 - Diccionarios
 - Sets
-
-- Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
 
 - Control de excepciones
 - Funciones

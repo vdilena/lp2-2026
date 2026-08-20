@@ -18,16 +18,16 @@ applyTo: "clase-02-*/**"
 
 ## Contenidos todavía no habilitados
 
+- Estructuras condicionales.
+- Estructuras de interacion con while
+- Estructuras de interacion con for
+
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
 
 - Diccionarios
 - Sets
-
-- Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
 
 - Control de excepciones
 - Funciones
