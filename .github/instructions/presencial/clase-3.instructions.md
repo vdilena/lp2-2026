@@ -15,8 +15,8 @@ applyTo: "clase-03-*/**"
 - Operadores de comparacion
 - Operadores logicos
 - Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Estructuras de iteración con while
+- Estructuras de iteración con for
 
 
 ## Contenidos todavía no habilitados
@@ -34,7 +34,7 @@ applyTo: "clase-03-*/**"
 - Modulos
 - Manejo de archivos csv
 
-- Porgramacion orientada a objetos
+- Programacion orientada a objetos
 
 - Numpy
 - Pandas

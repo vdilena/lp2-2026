@@ -20,8 +20,8 @@ applyTo: "clase-06-*/**"
 - Diccionarios
 - Sets
 - Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Estructuras de iteración con while
+- Estructuras de iteración con for
 - Control de excepciones
 - Funciones
 - List comprehension
@@ -31,7 +31,7 @@ applyTo: "clase-06-*/**"
 
 ## Contenidos todavía no habilitados
 
-- Porgramacion orientada a objetos
+- Programacion orientada a objetos
 - Numpy
 - Pandas
 - Matplotlib

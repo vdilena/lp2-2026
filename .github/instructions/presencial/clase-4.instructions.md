@@ -15,8 +15,8 @@ applyTo: "clase-04-*/**"
 - Operadores de comparacion
 - Operadores logicos
 - Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Estructuras de iteración con while
+- Estructuras de iteración con for
 - Listas
 - Tuplas
 - Operadores de pertenencia en lista
@@ -33,7 +33,7 @@ applyTo: "clase-04-*/**"
 - Modulos
 - Manejo de archivos csv
 
-- Porgramacion orientada a objetos
+- Programacion orientada a objetos
 
 - Numpy
 - Pandas

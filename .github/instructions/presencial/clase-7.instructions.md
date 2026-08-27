@@ -20,15 +20,14 @@ applyTo: "{clase-07-*/**,clase-08-*/**,clase-09-*/**}"
 - Diccionarios
 - Sets
 - Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Estructuras de iteración con while
+- Estructuras de iteración con for
 - Control de excepciones
 - Funciones
 - List comprehension
 - Modulos
 - Manejo de archivos csv
-- Porgramacion orientada a objetos
-- Porgramacion orientada a objetos
+- Programacion orientada a objetos
 
 
 ## Contenidos todavía no habilitados

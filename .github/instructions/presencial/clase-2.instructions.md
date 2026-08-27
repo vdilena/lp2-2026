@@ -19,8 +19,8 @@ applyTo: "clase-02-*/**"
 ## Contenidos todavía no habilitados
 
 - Estructuras condicionales.
-- Estructuras de interacion con while
-- Estructuras de interacion con for
+- Estructuras de iteración con while
+- Estructuras de iteración con for
 
 - Listas
 - Tuplas
@@ -35,7 +35,7 @@ applyTo: "clase-02-*/**"
 - Modulos
 - Manejo de archivos csv
 
-- Porgramacion orientada a objetos
+- Programacion orientada a objetos
 
 - Numpy
 - Pandas
