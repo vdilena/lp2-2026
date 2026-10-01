@@ -27,12 +27,11 @@ applyTo: "{clase-07-*/**,clase-08-*/**,clase-09-*/**}"
 - List comprehension
 - Modulos
 - Manejo de archivos csv
-- Programacion orientada a objetos
-
-
-## Contenidos todavía no habilitados
-
 - Numpy
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## Contenidos todavía no habilitados
+- Programacion orientada a objetos
+

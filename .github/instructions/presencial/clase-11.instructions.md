@@ -27,12 +27,10 @@ applyTo: "clase-11-*/**"
 - List comprehension
 - Modulos
 - Manejo de archivos csv
-- Programacion orientada a objetos
 - Numpy
 - Pandas
 - Matplotlib
-
+- Scikit-learn
+- Programacion orientada a objetos
 
 ## Contenidos todavía no habilitados
-
-- Scikit-learn
